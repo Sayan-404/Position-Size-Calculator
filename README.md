@@ -1,5 +1,5 @@
 # Position-Size-Calculator
-Simple Command Lined Based python script to calculate the order size of a trade based on stop loss and risk
+Simple python script for command line to calculate the order size of a trade based on stop loss and risk
 
 ## Installation
 
